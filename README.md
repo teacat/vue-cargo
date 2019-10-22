@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/7308718/67282626-caa50f00-f504-11e9-895f-57f52915c4b8.png">
+  <img src="https://user-images.githubusercontent.com/7308718/67282877-34bdb400-f505-11e9-8f04-fdffbd4e3b6d.png">
 </p>
 
 ## 特色
